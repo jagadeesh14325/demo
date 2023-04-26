@@ -1,0 +1,7 @@
+Joins
+
+Cross Join
+Inner Join or simple join
+Outer Join
+left outer join or left join
+right outer join or right join
